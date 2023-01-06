@@ -10,6 +10,12 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/Santiago3Gonzalez/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Santiago3Gonzalez/azure-network-protocols)
 
+<h2>Other Projects:</h2>
+
+- <b>City Year</b>
+  -  Restoring Ps.171
+  -  NYC Pack and Sort
+
 <h2>🤳Connect with me:</h2>
 
 
